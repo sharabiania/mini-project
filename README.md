@@ -1,1 +1,3 @@
 # mini-project
+
+Added this line of text from GitHub website
