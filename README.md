@@ -1,4 +1,4 @@
-# mini-project
+# Mini Project 1
 
 Added this line of text from GitHub website.
 
